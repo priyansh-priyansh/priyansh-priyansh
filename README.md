@@ -2,7 +2,7 @@
 
 <br><br>
 
-# 💫 About Me:
+# &nbsp; 💫 About Me: &nbsp;
 I am a skilled Web Developer with a strong focus on building efficient, responsive, and user-friendly web applications. Proficient in HTML, CSS, JavaScript, and modern frameworks, I develop sleek and functional websites that deliver seamless user experiences. I also work with backend technologies, APIs, and databases to create dynamic and scalable solutions.<br><br>Beyond development, I prioritize performance optimization, accessibility, and security, ensuring that every project meets industry standards. Whether it's front-end design, back-end logic, or full-stack development, I bring a problem-solving mindset and a passion for innovation to every project.<br><br>I am constantly exploring new technologies and improving my skills to stay ahead in the ever-evolving web development landscape. If you need a well-structured, high-performance website or application, I’m here to help.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyansh-priyansh&label=Profile%20views&color=21b40e&style=flat" alt="priyansh-priyansh" /> </p>
