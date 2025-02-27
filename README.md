@@ -7,7 +7,7 @@ I am a skilled Web Developer with a strong focus on building efficient, responsi
 <p align="left">
 <a href="https://www.linkedin.com/in/priyansh-bansal/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"></a>
 <a href="https://discord.gg/6Ha7gEEf" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100"></a>
-<a href="" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"></a>
+<a href="https://www.instagram.com/red.priyansh/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"></a>
 </p>
 
 # 💻 Tech Stack:
